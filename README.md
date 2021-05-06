@@ -1,7 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+This project show some React core features, such as useState, two way binding,
+functions through props an more
 
+![Example](https://media.giphy.com/media/0H8kiWjvnS3Q5LOBhz/giphy.gif)
 ## Available Scripts
 
 In the project directory, you can run:
